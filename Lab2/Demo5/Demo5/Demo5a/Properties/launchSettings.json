@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Demo5a": {
+      "commandName": "Project",
+      "commandLineArgs": "name=\"C:\\robo\\plik2.txt\""
+    }
+  }
+}
